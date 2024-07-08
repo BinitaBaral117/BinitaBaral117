@@ -5,8 +5,7 @@ Hey there! 👋 Welcome to my GitHub repository. I'm a passionate frontend devel
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binitabaral117&label=Profile%20views&color=0e75b6&style=flat" alt="binitabaral117" /> </p>
 
-🌱Front-End Development | HTML | CSS | JavaScript | ReactJS <br>
-☕ Java DSA (Beginner) <br>
+🌱Front-End Development | HTML | CSS | JavaScript | ReactJS  <br>
 🧠 BlockChain (Beginner)
 
 <h3 align="left">Connect with me:</h3>
